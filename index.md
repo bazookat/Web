@@ -8,8 +8,5 @@ Store on [google site](https://sites.google.com/view/notes-ep4qc3/home) separate
 Some good researches 
 
 ```markdown
-
-`In a box`
-
-[Link](https://sites.google.com/view/notes-ep4qc3/home) 
+Some text here
 ```
